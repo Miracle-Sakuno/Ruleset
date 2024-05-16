@@ -1,0 +1,9 @@
+! Bing通用 - 信息流
+||bing.com/hp/api^
+! Bing国际 - 信息流
+bing.com##.show_none.scroll_cont
+! Bing中国 - 信息流
+||cn.bing.com/AS/Suggestions^
+bing.com##.show_all_onerowup.scroll_cont
+! Bing中国 - 扫码下载App
+www.bing.com###id_qrcode_popup_container
