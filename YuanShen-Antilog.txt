@@ -1,3 +1,0 @@
-DOMAIN,dispatchcnglobal.yuanshen.com
-DOMAIN,ys-log-upload.mihoyo.com
-DOMAIN,apm-log-upload-v6.mihoyo.com
